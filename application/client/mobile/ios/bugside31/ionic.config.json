@@ -1,0 +1,7 @@
+{
+  "name": "bugside31",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
